@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raj-pandey55
 - 👀 I’m interested in development
-- 🌱 I’m currently learning Advance CSS and Sass
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on great front-end projects
 - 📫 How to reach me rajpandey552002@gmail.com

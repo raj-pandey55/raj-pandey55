@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-pandey55&label=Profile%20views&color=0e75b6&style=flat" alt="raj-pandey55" /> </p>
 
-- 🌱 I’m currently learning **React js, Vue.js**
+- 🌱 I’m currently learning **Vue.js**
 
 - 💬 Ask me about **Web development, DSA**
 

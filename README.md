@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rajpandey552002@gmail.om**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eNeFNuWXml9DWtp0Z8fSKAVnvGA1Qkiu/view?usp=sharing](https://drive.google.com/file/d/1eNeFNuWXml9DWtp0Z8fSKAVnvGA1Qkiu/view?usp=sharing)
+- 📄 Know about my experiences [MyResume](https://drive.google.com/file/d/1Xtzsp7RmLnx0OatrhpV-0DMVNK7kV_ZN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

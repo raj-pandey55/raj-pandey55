@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-pandey55&label=Profile%20views&color=0e75b6&style=flat" alt="raj-pandey55" /> </p>
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/657af8cd5145316d250205e4?variant=dark" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/657af8cd5145316d250205e4?variant=dark)](https://roadmap.sh)
 
 
 # 💻 Tech Stack:
